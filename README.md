@@ -1,7 +1,14 @@
 # 🎬 Sueraphql Fullstack
 
-A fullstack web application that displays detailed movie information, built with Apollo Server (Node.js) and React.  
+A fullstack web application that displays movie information, built with Apollo Server (Node.js) and React.  
 Designed for quick browsing and exploration of movies through a smooth user experience.
+
+---
+
+## 😎 Repositories
+
+- Client repositories: https://github.com/feelsuegood/sueraphql-client
+- Server repositores: https://github.com/feelsuegood/sueraphql-server
 
 ---
 
@@ -72,10 +79,3 @@ docker compose up --build
 | server/  | `npm start`     | Start server normally              |
 | client/  | `npm start`     | Start client normally (dev server) |
 | client/  | `npm run build` | Build production-ready client      |
-
----
-
-## 🧡 Author
-
-- Developed with 💜 by **Sue Jeong (수아)**
-- Project for learning and practicing Fullstack Development with GraphQL
