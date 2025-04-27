@@ -8,7 +8,7 @@ Designed for quick browsing and exploration of movies through a smooth user expe
 ## 😎 Repositories
 
 - Frontend repositories: https://github.com/feelsuegood/sueraphql-frontend
-- Backend repositores: https://github.com/feelsuegood/sueraphql-backend
+- Backend repositories: https://github.com/feelsuegood/sueraphql-backend
 
 ---
 
@@ -16,8 +16,8 @@ Designed for quick browsing and exploration of movies through a smooth user expe
 
 ```
 sueraphql-fullstack/
-├── client/   # React frontend
-├── server/   # Apollo GraphQL server
+├── frontend/   # React frontend
+├── bakcend/   # Apollo GraphQL server
 ├── docker-compose.yml
 ├── docker-compose.dev.yml
 └── README.md
@@ -75,7 +75,7 @@ docker compose up --build
 
 | Location | Command         | Description                        |
 | -------- | --------------- | ---------------------------------- |
-| server/  | `npm run dev`   | Start server with nodemon          |
-| server/  | `npm start`     | Start server normally              |
-| client/  | `npm start`     | Start client normally (dev server) |
-| client/  | `npm run build` | Build production-ready client      |
+| backend/  | `npm run dev`   | Start server with nodemon          |
+| backend/  | `npm start`     | Start server normally              |
+| frontend/  | `npm start`     | Start client normally (dev server) |
+| frontend/  | `npm run build` | Build production-ready client      |
