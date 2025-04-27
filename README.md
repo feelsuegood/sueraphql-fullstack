@@ -27,7 +27,7 @@ sueraphql-fullstack/
 
 ## 🚀 Features
 
-### Client (React)
+### Frontend (React)
 
 - Browse a list of popular movies
 - View detailed movie information
@@ -35,7 +35,7 @@ sueraphql-fullstack/
 - Responsive and modern UI
 - React Router for navigation
 
-### Server (Node.js + Apollo)
+### Backend (Node.js + Apollo)
 
 - GraphQL API for movies and users
 - Fetch movie data from external API ([YTS API](https://yts.mx/api))
@@ -60,8 +60,8 @@ sueraphql-fullstack/
 docker compose -f docker-compose.dev.yml up --build
 ```
 
-- React client runs at: http://localhost:3000
-- Apollo server runs at: http://localhost:4000
+- React frontend runs at: http://localhost:3000
+- Apollo backend runs at: http://localhost:4000
 
 ### 2. Production Mode
 
@@ -73,9 +73,9 @@ docker compose up --build
 
 ## 📜 Scripts
 
-| Location | Command         | Description                        |
-| -------- | --------------- | ---------------------------------- |
+| Location  | Command         | Description                        |
+| --------- | --------------- | ---------------------------------- |
 | backend/  | `npm run dev`   | Start server with nodemon          |
 | backend/  | `npm start`     | Start server normally              |
-| frontend/  | `npm start`     | Start client normally (dev server) |
-| frontend/  | `npm run build` | Build production-ready client      |
+| frontend/ | `npm start`     | Start client normally (dev server) |
+| frontend/ | `npm run build` | Build production-ready client      |

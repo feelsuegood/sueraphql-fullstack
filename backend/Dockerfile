@@ -1,4 +1,4 @@
-# server/Dockerfile
+# backend/Dockerfile
 FROM node:18
 
 WORKDIR /app

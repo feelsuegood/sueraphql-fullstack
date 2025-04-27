@@ -1,5 +1,5 @@
 {
-  "name": "sueraphql-client",
+  "name": "sueraphql-frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
