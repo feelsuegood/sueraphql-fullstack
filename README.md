@@ -7,8 +7,8 @@ Designed for quick browsing and exploration of movies through a smooth user expe
 
 ## 😎 Repositories
 
-- Client repositories: https://github.com/feelsuegood/sueraphql-client
-- Server repositores: https://github.com/feelsuegood/sueraphql-server
+- Frontend repositories: https://github.com/feelsuegood/sueraphql-frontend
+- Backend repositores: https://github.com/feelsuegood/sueraphql-backend
 
 ---
 
