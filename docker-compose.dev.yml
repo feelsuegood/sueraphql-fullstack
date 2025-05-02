@@ -1,3 +1,4 @@
+# open -a Docker
 # docker compose -f docker-compose.dev.yml up --build (first time)
 # docker compose -f docker-compose.dev.yml up
 
