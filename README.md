@@ -38,7 +38,7 @@ sueraphql-fullstack/
 ### Backend (Node.js + Apollo)
 
 - GraphQL API for movies and users
-- Fetch movie data from external API ([YTS API](https://yts.mx/api))
+- Fetch movie data from external API 
 - Support for querying single movie or movie list
 - Mutations for posting and deleting tweets (sample feature)
 
